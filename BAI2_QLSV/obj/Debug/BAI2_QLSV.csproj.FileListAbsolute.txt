@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\BAI2_QLSV\BAI2_QLSV\bin\Debug\BAI2_QLSV.exe.config
+C:\Users\Admin\source\repos\BAI2_QLSV\BAI2_QLSV\bin\Debug\BAI2_QLSV.exe
+C:\Users\Admin\source\repos\BAI2_QLSV\BAI2_QLSV\bin\Debug\BAI2_QLSV.pdb
+C:\Users\Admin\source\repos\BAI2_QLSV\BAI2_QLSV\obj\Debug\BAI2_QLSV.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\BAI2_QLSV\BAI2_QLSV\obj\Debug\BAI2_QLSV.Form1.resources
+C:\Users\Admin\source\repos\BAI2_QLSV\BAI2_QLSV\obj\Debug\BAI2_QLSV.Properties.Resources.resources
+C:\Users\Admin\source\repos\BAI2_QLSV\BAI2_QLSV\obj\Debug\BAI2_QLSV.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\BAI2_QLSV\BAI2_QLSV\obj\Debug\BAI2_QLSV.exe
+C:\Users\Admin\source\repos\BAI2_QLSV\BAI2_QLSV\obj\Debug\BAI2_QLSV.pdb
+C:\Users\Admin\source\repos\BAI2_QLSV\BAI2_QLSV\obj\Debug\BAI2_QLSV.sinhvien.resources
